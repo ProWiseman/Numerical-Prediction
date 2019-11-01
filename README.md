@@ -5,8 +5,7 @@
 <li>손실함수, 경사하강법</li>
 </ul>
 <hr>
-<p><br>
-<br></p>
+<br>
 <h2 id="-">선형회귀</h3>
 
 <p><img src="/Image/Linear_Regression.png"></p>
