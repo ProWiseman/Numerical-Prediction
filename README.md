@@ -9,6 +9,5 @@
 <br>
 <br></p>
 <h2 id="-">선형회귀</h3>
-<hr>
 
 <p><img src="/Image/Linear_Regression.png"></p>
