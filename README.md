@@ -5,7 +5,6 @@
 선형 회귀(Linear Regression)란 종속 변수 y와 한 개 이상의 독립 변수 X와의 선형 상관 관계를 모델링하는 회귀분석 기법이다.
 선형 회귀를 수식으로 표현하면 H(x) + Wx + b인데, H(x)는 가설(Hypothesis)을 의미하고 W는 가중치(Weight), b는 편향(bias)를 의미한다.
 선형회귀란 바로 이 가중치와 편향을 조절하여 얻은 가설의 값이 실제 값과의 차이가 가장 적은 모델을 찾는 것이다.
-<p><img src="/Image/linearRegression.jpg"></p>
 
 <h3 id="-">손실 함수, 경사 하강법</h3>
 
@@ -13,7 +12,7 @@
 
 <p><img src="/Image/cost_function.png"></p>
 
-
+<p><img src="/Image/GradientDescent.png"></p>
 
 <p><img src="/Image/Linear_Regression.png"></p>
 
