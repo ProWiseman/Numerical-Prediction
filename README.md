@@ -41,7 +41,7 @@
 &nbsp;로지스틱 회귀(Logistic Regression)은 지도학습 중 분류(Classification)에 사용되는 알고리즘이다. 로지스틱 회귀는 분류하려는 범주가 2가지 범주로 나눠진 경우에 적용된다.
 <br>&nbsp;로지스틱 회귀는 선형회귀와는 다른 방법으로 모델을 구축하는데, 그 이유는 혈압과 같은 연속형 숫자와 같은 곳에는 선형 회귀 모델을 적용시키면 위에서 나온 
 
-<p><img src="/Image/wrongLogistic.png"></p>
+<p><img src="/Image/wrongLogistic1.png"></p>
 
 <p><img src="/Image/wrongCost.png"></p>
 
