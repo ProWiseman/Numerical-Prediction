@@ -47,6 +47,15 @@
 
 <p><img src="/Image/wrongCost.png"></p>
 
-&nbsp;
+&nbsp;그러면 이 함수에 맞는 모델과 손실 함수는 무엇일까?
+<br>&nbsp;일단 로지스틱 회귀에 맞는 손실 함수는 아래와 같다.
+
+<p><img src="/Image/Logistic_cost.png"></p>
+
+&nbsp;이 식을 그래프로 표현하면 아래 사진과 같다.
+
+<p><img src="/Image/Logistic_cost_graph.png"></p>
+
+
 
 <h3 id="-">Sigmoid Function</h3>
