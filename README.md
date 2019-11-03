@@ -28,6 +28,8 @@
 
 <h3 id="-">퍼셉트론</h3>
 
+&nbsp;퍼셉트론이란 다수의 신호(Input)을 입력받아 하나의 신호(Output)을 출력한다.
+
 <h3 id="-">로지스틱 회귀</h3>
 
 <h3 id="-">Sigmoid Function</h3>
