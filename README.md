@@ -4,9 +4,9 @@
 
  선형 회귀(Linear Regression)란 종속 변수 y와 한 개 이상의 독립 변수 X와의 선형 상관 관계를 모델링하는 회귀분석 기법이다.
 
-<p><img src="/Image/Linear_Regression.png"></p>
-
 <h3 id="-">손실 함수, 경사 하강법</h3>
+
+<p><img src="/Image/Linear_Regression.png"></p>
 
 <h2 id="-">이진 분류</h2>
 
